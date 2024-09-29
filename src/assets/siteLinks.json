@@ -1,37 +1,32 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "ChatGPT",
+    "link": "http://www.imuzi0221.top/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "个人网盘",
+    "link": "http://154.12.20.11:5244/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://www.51kim.com/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "Python指北",
+    "link": "https://www.cnblogs.com/nickchen121/p/10718112.html"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "Book",
+    "name": "Transformer指北",
+    "link": "https://www.cnblogs.com/nickchen121/p/15105048.html"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://imuzi0221.top:8888/"
   }
 ]
