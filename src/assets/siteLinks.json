@@ -2,12 +2,12 @@
   {
     "icon": "Blog",
     "name": "ChatGPT",
-    "link": "http://www.imuzi0221.top/"
+    "link": "http://imuzi0221.ren:3000/"
   },
   {
     "icon": "Cloud",
     "name": "个人网盘",
-    "link": "http://154.12.20.11:5244/"
+    "link": "http://imuzi0221.ren:5244/"
   },
   {
     "icon": "Compass",
@@ -27,6 +27,6 @@
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://imuzi0221.top:8888/"
+    "link": "http://imuzi0221.ren:8888/"
   }
 ]
