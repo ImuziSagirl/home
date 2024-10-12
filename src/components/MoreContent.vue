@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">写什么暂时还没想好0v0</div>
+  <div class="more-content">杨晓博臭傻逼</div>
 </template>
 
 <style lang="scss" scoped>
